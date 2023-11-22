@@ -13,6 +13,6 @@ A Frontend project application for weather forecast
 #
 * Deployed using Vercel.app
 
-Click here for live demo : [Weather Report by Gokul] (https://gokul-weather-app.vercel.app)
+Click here for live demo : [Weather Report by Gokul](https://gokul-weather-app.vercel.app)
 
 #
